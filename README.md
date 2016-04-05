@@ -17,4 +17,6 @@
 
 **第五次作业**
 -和第四次一样,[在这里](https://www.zybuluo.com/mdeditor#335355-full-reader)
-**[第六次作业](https://www.zybuluo.com/mdeditor#335412-full-reader)**
+
+**第六次作业**
+-[如下](https://www.zybuluo.com/mdeditor#335412-full-reader)
