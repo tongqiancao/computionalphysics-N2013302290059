@@ -19,14 +19,13 @@ dN/dt=aN-bN2 <br>
 <h2 id="正文">正文</h2>
 
 <p><a href="https://github.com/tongqiancao/computionalphysics-N2013302290059/blob/master/homewok5.py">源代码</a> <br>
-当b=0时,函数图像如下:</p>
-
-
-
-<h2 id="今天网速太慢了明天再上传">(今天网速太慢了,明天再上传)</h2>
+<img src="computionalphysics-N2013302290059/homework5.2.png" alt="当b=0时,函数图像如下:" title=""></p>
 
 <p>当Ｎ(0)很小时,令a=10,b=3,函数图像如下: <br>
+<img src="computionalphysics-N2013302290059/homework5.2.png" alt="图像1" title=""> <br>
 当Ｎ(0)=1000时,令a=10,b=0.01,函数图像如下:</p>
+
+
 
 <h2 id="结论">结论</h2>
 
