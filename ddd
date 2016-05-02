@@ -1,0 +1,56 @@
+this program caculate the trajectory of our cannon shell including both air drag and the reduced air density at high altitudes 
+from pylab import *
+import math
+
+Bm=4e-5
+g=9.8
+a=6.5e-3
+T=300
+alpha=2.5
+i=0
+
+def caculat(dt):
+  x=[0]
+  y=[0]
+  vx=[]
+  vy=[]
+  vx.append(v*math.cos(theta))
+  vy.append(v*(math.sin(theta)))
+  while y[i]>=0:
+    x.append(x[i]+vx[i]*dt)
+    vx.append(vx[i]-Bm*v*vx[i]*dt)
+    y.append(y[i]+vy[i]*dt)
+    vy.append(vy[i]-g*dt-Bm*v*vy[i]*dt)
+    v=math.sqrt((vx[i])**2+(vy[i])**2)
+    i=i+1
+  return x,y,vx,vy
+
+def caculate(dt):
+  x_d=[0]
+  y_d=[0]
+  vx_d=[]
+  vy_d=[]
+  vx_d.append(v*(math.cos(theta)))
+  vy_d.append(v*(math.sin(theta)))
+  while y_d[i]>=0:
+    x_d.append(x_d[i]+vx_d[i]*dt)
+    vx_d.append(vx_d[i]-(1-a*y_d[i]/T)**alpha*Bm*v*vx_d[i]*dt)
+    y_d.append(y_d[i]+vy_d[i]*dt)
+    vy_d.append(vy_d[i]-g*dt-(1-a*y_d[i]/T)**alpha*Bm*v*vy_d[i]*dt)
+    v=math.sqrt((vx_d[i])**2+(vy_d[i])**2)
+    i=i+1
+  return x_d,y_d,vx_d,vy_d
+
+theta=math.radians(float(raw_input('please input the angle: ')))
+v=float(raw_input('please input the velocity: '))
+dt=float(raw_input('please input the time interval:'))
+x, y, vx, vy = caculat(dt)
+x_d, y_d, vx_d, vy_d = caculate(dt)
+
+plot(x,y,linestyle='-',linewidth=1.0,color='b',label='ignore density')
+plot(x_d,y_d,linestyle='--',linewidth=1.0,color='r',label='caculate density')
+title('the cannon trajectory')
+xlabel=('x axis')
+ylabel=('y axis')
+legend(loc='upper right',fontsize=14)
+show()
