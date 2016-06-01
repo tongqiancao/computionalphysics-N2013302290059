@@ -22,4 +22,4 @@
 -[如下](https://www.zybuluo.com/mdeditor#335412-full-reader)
 
 **第七次作业**
-时隔这么久，终于交上了[第七次作业](https://www.zybuluo.com/mdeditor#396963-full-reader),因为前段时间写的老是出错，一怒之下就都删了，好长时间都没有提起勇气再写。好不容易写对了，希望能继续努力，把作业都补上。
+-时隔这么久，终于交上了[第七次作业](https://www.zybuluo.com/mdeditor#396963-full-reader),因为前段时间写的老是出错，一怒之下就都删了，好长时间都没有提起勇气再写。好不容易写对了，希望能继续努力，把作业都补上，嗯！
