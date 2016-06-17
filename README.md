@@ -31,7 +31,7 @@
 - [第九次作业](https://www.zybuluo.com/mdeditor#399877-full-reader),希望再接再厉！
 
 **第十次作业**
-- [第十次作业](https://www.zybuluo.com/mdeditor#full-reader),转眼已到期末，要加油拉！
+- [第十次作业](https://www.zybuluo.com/mdeditor#408550-full-reader),转眼已到期末，要加油拉！
 
 **第十一次作业**
 - [第十一次作业](https://www.zybuluo.com/mdeditor#410322-full-reader),努力争取在期末之前完成各次作业！
