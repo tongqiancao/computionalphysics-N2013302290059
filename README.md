@@ -13,7 +13,7 @@
 
 **第四次作业**
 - 完成第一章的练习题:完成的是第二题,在王雨祺同学的帮助之下,感谢王雨祺同学的耐心教导([在这里](https://raw.githubusercontent.com/tongqiancao/computionalphysics-N2013302290059/master/homework4/homeworr4.2.py)
-- 使用matplotlib完成图片的各种细节，认真写报告([在这里]()
+- 使用matplotlib完成图片的各种细节，认真写报告([在这里](https://www.zybuluo.com/mdeditor#335355-full-reader)
 
 **第五次作业**
 -和第四次一样,[在这里](https://www.zybuluo.com/mdeditor#335355-full-reader)
