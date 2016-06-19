@@ -3,6 +3,7 @@
 ======
 **计算机小白希望在这一学期对计算机能够多多了解一下**
 
+**今天才发现之前写在作业部落的作业没有发布，只有链接。所以之前是看不到我的作业的。但是真的是做了的哈**
 
 ##作业列表
 
@@ -18,16 +19,16 @@
 - 使用matplotlib完成图片的各种细节，认真写报告([在这里](https://www.zybuluo.com/tongqiancao/note/411867)
 
 **第五次作业**
--和第四次一样,[在这里](https://www.zybuluo.com/tongqiancao/note/335355)
+-[在这里](https://www.zybuluo.com/tongqiancao/note/335355)，和第四次一样。
 
 **第六次作业**
-- [如下](https://www.zybuluo.com/tongqiancao/note/335412)
+- [第六次作业](https://www.zybuluo.com/tongqiancao/note/335412)
 
 **第七次作业**
-- 时隔这么久，终于交上了[第七次作业](https://www.zybuluo.com/tongqiancao/note/396963),因为前段时间写的老是出错，一怒之下就都删了，好长时间都没有提起勇气再写。好不容易写对了，希望能继续努力，把作业都补上，嗯！
+- [第七次作业](https://www.zybuluo.com/tongqiancao/note/396963),时隔这么久，终于交上了。因为前段时间写的老是出错，一怒之下就都删了，好长时间都没有提起勇气再写。好不容易写对了，希望能继续努力，把作业都补上，嗯！
 
 **第八次作业**
-- 做第八次作业好像变简单了[第八次作业](https://www.zybuluo.com/tongqiancao/note/399135),希望再接再厉！
+- [第八次作业](https://www.zybuluo.com/tongqiancao/note/399135),做第八次作业好像变简单了，希望再接再厉！
  
 **第九次作业**
 - [第九次作业](https://www.zybuluo.com/tongqiancao/note/399877),希望再接再厉！
