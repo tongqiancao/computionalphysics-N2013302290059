@@ -46,5 +46,5 @@
 
 
 **第十四次作业**
-- [第十四次作业](https://www.zybuluo.com/mdeditor#411876-full-reader)，终于……
+- [第十四次作业](https://www.zybuluo.com/tongqiancao/note/411876)，终于……
 
